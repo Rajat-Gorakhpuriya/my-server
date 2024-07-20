@@ -1,5 +1,6 @@
-npm init
-npm i express --save
-required dependencies are installed now create a file index.js
-if we want to use import statement add "type": "module" in package.json
- or we can use require('express') directly.
+1.npm init
+2.npm i express --save
+3.required dependencies are installed now create a file index.js
+4.npm install nodemon --save
+5.npm install body-parser --save
+6.install postman extesion.
